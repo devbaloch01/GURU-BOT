@@ -1,10 +1,11 @@
 {
-  "name": "whatsapp-bot (GURU-BOT)",
+  "name": "(A B Abubakar Baloch)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/Guru322/GURU-BOT",
+  "repository": "https://github.com/devbaloch01
+/A-B-Abubakar-Baloch",
   "stack": "container",
   "env": {
     "DATABASE_URL": {
@@ -20,7 +21,7 @@
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
